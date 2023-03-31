@@ -190,5 +190,5 @@ This query informs the farm manager's of what each product is costing to maintai
 
 
 ## Matrix
-![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Query%20Matrix.png)
+[![App Screenshot](https://raw.githubusercontent.com/sevasguerrero/Farm-Database-SQL-/main/Query%20Matrix.png)
 
