@@ -1,23 +1,3 @@
-![Cow](https://media.giphy.com/media/Vp3ftHKvKpASA/giphy.gif)
-![](http://clipart-library.com/clipart/1923526.htm)
-
-
-SS Links
-
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Client.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Employees.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Feeding.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Livestock.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Machinery.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/MachineryLog.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/OrderDetails.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Product.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Data%20Model.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Query%20Matrix.png
-
-
-
-
 # Farm-Database-SQL-
 Team Name: ns_21482_2
 
@@ -30,7 +10,7 @@ Ryan Maguire: https://github.com/rmaguire2020/SQL_Project
 
 Amy Nguyen: https://github.com/AmyN137/MySQL-Farm 
 
-Destinee Pruden: https://github.com/DPRUDEN25MySQL-Farm-Project
+Destinee Pruden: https://github.com/DPRUDEN25/DPRUDEN-SQL-Farm
 
 Sevastian Guerrero: https://github.com/sevasguerrero
 
@@ -53,7 +33,7 @@ The problem being modeled by the farm data model is the process of recording the
 ## Farm Data Model
 <p align="center"
 
-![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Screen%20Shot%202023-03-30%20at%2010.01.21%20AM.png)
+![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Data%20Model.png)
 
 
 ## Data Model Description
@@ -190,5 +170,5 @@ This query informs the farm manager's of what each product is costing to maintai
 
 
 ## Matrix
-[![App Screenshot](https://raw.githubusercontent.com/sevasguerrero/Farm-Database-SQL-/main/Query%20Matrix.png)
+![App Screenshot](https://raw.githubusercontent.com/sevasguerrero/Farm-Database-SQL-/main/Query%20Matrix.png)
 
